@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pablo Thieriot
-- 👀 I’m interested in game-dev
-- 🌱 I’m currently learning game-dev
+- 👀 I’m interested in game-dev and 3D
+- 🌱 I’m currently learning it
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm searching for an internship
+- ⚡ Fun fact: I'm searching for an intership
 
 <!---
 Pablo-Thieriot/Pablo-Thieriot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
