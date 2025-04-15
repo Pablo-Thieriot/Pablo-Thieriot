@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pablo Thieriot
 - 👀 I’m interested in game-dev and 3D
 - 🌱 I’m currently learning it
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm searching for an intership
 
 <!---
